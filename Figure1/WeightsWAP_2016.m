@@ -1,4 +1,4 @@
-%This script replicates Figure 3 in p. 19 of Montiel-Olea (2016)
+%This script replicates Figure 3 (CHECK) in p. 19 of Montiel-Olea (2016)
 
 %More generally, this file approximates the density of the weights in 
 %(3.9) and (3.10) for different values of the reduced-form correlation
